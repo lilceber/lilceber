@@ -7,4 +7,4 @@ Kotlin · Jetpack Compose · Room · Navigation · MVVM · Git · SQL
 
 
 ## 📫 Contato
-[LinkedIn](linkedin.com/in/fernando-fg-medeiros) · [E-mail](mailto:fernandoceber1@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/fernando-fg-medeiros) · [E-mail](mailto:fernandoceber1@gmail.com)
